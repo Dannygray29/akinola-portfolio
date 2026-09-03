@@ -2,97 +2,103 @@
 
 ### AI-Assisted Technology • Digital Products • Research • Automation • Digital Operations
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-181717?logo=github)](https://github.com/Dannygray29/akinola-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-181717?logo=github)](https://github.com/Dannygray29/akinola-portfolio)
 [![Projects](https://img.shields.io/badge/Projects-Explore-0A66C2)](PROJECTS.md)
 [![CV](https://img.shields.io/badge/CV-View-2E7D32)](CV.md)
-[![Status](https://img.shields.io/badge/Status-Actively%20Learning-F59E0B)](#current-focus)
+[![Learning](https://img.shields.io/badge/Status-Actively%20Learning-F59E0B)](#current-focus)
 
-> An evidence-first portfolio of self-directed technology projects, research, experimentation, and AI-assisted development.
+> **Evidence-first portfolio:** self-directed technology projects, research, experimentation, digital products, and AI-assisted development.
+
+[**View Projects →**](PROJECTS.md) · [**Read CV →**](CV.md) · [**GitHub Profile →**](https://github.com/Dannygray29)
+
+---
 
 ## 👋 About me
 
 I am an aspiring technology professional based in Nigeria, building practical digital projects through self-directed learning and AI-assisted development. My interests include digital products, web technologies, automation, technology research, data, and digital operations.
 
-I currently have **no formal professional work experience**. This portfolio therefore focuses on what I have actually explored and built rather than presenting unsupported employment history or qualifications.
+I currently have **no formal professional work experience**. This portfolio focuses on work I have actually explored and built rather than unsupported employment history, qualifications, or achievements.
 
-## 🤖 How I build
+## 🤖 How I work
 
-My current workflow makes extensive use of AI tools for:
+AI is an important part of my current development workflow. I use AI tools to assist with:
 
 - Technical research and learning
-- Ideation and requirements exploration
-- Coding assistance
+- Requirements exploration and ideation
+- Coding and implementation assistance
 - Prototyping
 - Debugging and troubleshooting
 - Testing support
 - Documentation
 - Iterative project improvement
 
-I direct the requirements and evaluate and iterate on the resulting work while developing my understanding of the underlying technologies. AI-assisted project work is **not presented as equivalent to formal professional software-engineering experience**.
+I direct requirements, evaluate results, test where practical, and iterate while developing stronger understanding of the underlying technologies. **AI-assisted project work is not presented as equivalent to formal professional software-engineering experience.**
 
 ## 🧭 Core capabilities
 
-| Area | What I practice |
+| Area | Practical focus |
 | --- | --- |
 | **AI-Assisted Development** | Requirements, coding assistance, debugging, prototyping, testing support |
 | **Digital Products** | Feature planning, product experimentation, iterative improvement |
 | **Technology Research** | Internet research, technical investigation, comparison, documentation |
 | **Problem Solving** | Breaking problems down, investigating errors, testing solutions |
 | **Automation** | Workflow design, digital operations, automation concepts |
-| **Learning & Adaptability** | Self-directed learning, experimentation, learning unfamiliar tools |
+| **Learning & Adaptability** | Self-directed learning, experimentation, unfamiliar tools |
 | **Documentation** | Project organization, technical notes, requirements, implementation records |
 
 ## 🚀 Selected projects
 
-### 01 — SocialFlow
-**Social-media automation • AI-assisted development • workflow automation**
+### 01 · SocialFlow
+**Social-media automation · AI-assisted development · workflow automation**
 
 A self-hosted project exploring research, planning, content generation, review, scheduling, publishing, and analytics workflows.
 
-**Attribution:** SocialFlow is fork-derived. The upstream relationship is retained and my portfolio does not claim upstream work as wholly original.
+**Attribution:** Fork-derived project. Upstream work is not presented as wholly original.
 
-→ [View SocialFlow](https://github.com/Dannygray29/SocialFlow)
+[**Open SocialFlow →**](https://github.com/Dannygray29/SocialFlow)
 
-### 02 — GreyVerse
-**Gaming & esports • digital product development • online platform**
+### 02 · GreyVerse
+**Gaming & esports · digital product development · online platform**
 
 An online gaming and esports platform exploring player accounts, tournaments, leagues, rankings, rewards, and match workflows.
 
 **Status:** Under development.
 
-→ [View GreyVerse](https://github.com/Dannygray29/Greyverse)
+[**Open GreyVerse →**](https://github.com/Dannygray29/Greyverse)
 
-### 03 — Greyvona Technologies
-**Digital products • web applications • deployment • technology operations**
+### 03 · Greyvona Technologies
+**Digital products · web applications · deployment · technology operations**
 
 A broader technology project exploring digital products, web applications, backend services, deployment, integrations, and digital operations.
 
 **Status:** Private development repository.
 
-### 04 — StoryForge Agent
-**AI • content workflows • platform integrations**
+### 04 · StoryForge Agent
+**AI · content workflows · platform integrations**
 
 An AI-oriented project exploring automated content workflows and integrations with external platforms and services.
 
 **Status:** Private development repository.
 
-→ [Read the project portfolio](PROJECTS.md)
+[**Read the detailed project portfolio →**](PROJECTS.md)
 
-## 🧰 Technologies encountered through projects
+## 🧰 Technology exposure
 
-**Languages & web:** Python • JavaScript • HTML • CSS  
-**Backend & data:** FastAPI • SQLite • Supabase • REST APIs  
-**AI & automation:** AI/LLM integrations • Ollama • Playwright • APScheduler  
-**Development & delivery:** Git • GitHub • GitHub Actions  
-**Security & integrations:** OAuth/PKCE concepts • environment variables • secret-management practices
+> Technologies below are **encountered, used, or explored through AI-assisted projects**. They should not be interpreted as a claim of independent professional-level proficiency in every item.
 
-> **Important:** These technologies represent tools encountered, used, or explored through AI-assisted projects. They are not presented as independent professional-level programming qualifications in every listed technology.
+| Category | Technologies |
+| --- | --- |
+| Languages & web | Python · JavaScript · HTML · CSS |
+| Backend & data | FastAPI · SQLite · Supabase · REST APIs |
+| AI & automation | AI/LLM integrations · Ollama · Playwright · APScheduler |
+| Development & delivery | Git · GitHub · GitHub Actions |
+| Security & integrations | OAuth/PKCE concepts · environment variables · secret-management practices |
 
 ## 🎯 Current focus
 
-- Building stronger independent technical understanding
+- Strengthening independent technical understanding
 - Improving project quality and documentation
-- Developing practical digital products
+- Building practical digital products
 - Exploring AI and automation workflows
 - Growing research and problem-solving capabilities
 - Preparing for future technology opportunities
@@ -106,6 +112,7 @@ An AI-oriented project exploring automated content workflows and integrations wi
 | [Skills](SKILLS.md) | Core capabilities and technology exposure |
 | [Education](EDUCATION.md) | Education and learning approach |
 | [Security](SECURITY.md) | Security and responsible-project principles |
+| [Contributing](CONTRIBUTING.md) | Feedback and contribution guidance |
 
 ## 📫 Contact
 
@@ -119,4 +126,4 @@ An AI-oriented project exploring automated content workflows and integrations wi
 
 This portfolio follows an evidence-first standard. Project status, technical exposure, AI assistance, employment history, qualifications, and attribution are described conservatively. Fork-derived or externally sourced work is attributed rather than presented as wholly original work.
 
-**The goal is simple: show real learning, real experimentation, and real project evidence.**
+> **The goal: show real learning, real experimentation, and real project evidence.**
