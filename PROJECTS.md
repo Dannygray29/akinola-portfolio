@@ -1,66 +1,108 @@
 # Project Portfolio
 
-This page documents selected self-directed projects and the skills, workflows, and technologies explored through them.
+Selected self-directed projects and experiments. Each entry separates **what the project is** from **what I personally explored** and avoids presenting AI-assisted work as formal employment experience.
 
-## SocialFlow
+## 🚀 SocialFlow
 
-**Focus:** Social-media automation and digital workflows  
-**Status:** Public project
+**Focus:** Social-media automation · AI workflows · digital operations  
+**Status:** Public · fork-derived
 
 SocialFlow explores an end-to-end workflow for researching content, planning posts, generating content, reviewing material, scheduling, publishing, and analyzing results.
 
-**What I explored:**
-- Workflow design
-- AI-assisted development
-- Automation concepts
-- API and OAuth concepts
-- Testing and troubleshooting
-- Documentation and project organization
+### What I explored
+- AI-assisted project development
+- Workflow design and automation concepts
+- API integrations and OAuth/PKCE concepts
+- Browser automation and scheduled tasks
+- Testing, troubleshooting, CI, and security practices
+- Project documentation and repository organization
 
-**Attribution:** SocialFlow is fork-derived from an upstream repository. Upstream work is not claimed as my original work.
+### Attribution
+SocialFlow is fork-derived from an upstream repository. I do **not** claim the upstream implementation as my original work. Portfolio claims are limited to changes and project work I personally make in my repository.
 
-Repository: https://github.com/Dannygray29/SocialFlow
+[**Open SocialFlow →**](https://github.com/Dannygray29/SocialFlow)
 
-## GreyVerse
+---
 
-**Focus:** Gaming and esports platform  
-**Status:** Under development
+## 🎮 GreyVerse
 
-GreyVerse explores an online gaming platform with player accounts, tournaments, leagues, rankings, rewards, and match-related workflows.
+**Focus:** Gaming & esports · online platform · competition workflows  
+**Status:** Under development · public
 
-**What I explored:**
+GreyVerse is an online competition-management platform for external DLS and eFootball matches. The repository explores player accounts, game-specific records, tournaments, leagues, rankings, rewards, match workflows, evidence handling, and server-controlled competition rules.
+
+### What I explored
 - Product requirements and feature planning
-- Web application concepts
-- Authentication and database workflows
+- Authentication and account workflows
 - Supabase-backed application architecture
-- Iterative troubleshooting and testing
+- Database/RLS concepts and server-controlled logic
+- Match, league, tournament, and reward workflows
+- Web/mobile deployment concepts
+- Iterative troubleshooting, testing, and documentation
 
-Repository: https://github.com/Dannygray29/Greyverse
+### Current limitation
+The repository's own audit identifies remaining behavioral verification and production-readiness gates. I therefore do not describe GreyVerse as fully production-ready.
 
-## Greyvona Technologies
+[**Open GreyVerse →**](https://github.com/Dannygray29/Greyverse)
 
-**Focus:** Digital products and technology operations  
+---
+
+## 🏢 Greyvona Technologies
+
+**Focus:** Digital products · web applications · deployment · integrations  
 **Status:** Private development project
 
-The project explores web applications, backend services, deployment, integrations, and broader digital-product workflows.
+A broader technology project exploring digital products, web applications, backend services, deployment, integrations, and digital operations.
 
-**What I explored:**
-- Product planning
-- AI-assisted development
-- Web application architecture
-- Backend and service integration concepts
-- Deployment workflows
-- Security and environment configuration
+### What I explored
+- Product planning and feature development
+- AI-assisted implementation and troubleshooting
+- Web and backend architecture concepts
+- Deployment and environment configuration
+- Integrations and operational workflows
+- Security and secret-management practices
 
-## StoryForge Agent
+Because the repository is private, public claims about implementation details are intentionally limited.
 
-**Focus:** AI-assisted content workflows  
+---
+
+## ✍️ StoryForge Agent
+
+**Focus:** AI · content workflows · platform integrations  
 **Status:** Private development project
 
-StoryForge explores AI-oriented content workflows and integrations with external platforms and services.
+An AI-oriented project exploring automated content workflows and integrations with external platforms and services.
 
-## How these projects were developed
+Because the repository is private, this portfolio does not claim functionality that cannot be publicly demonstrated.
 
-My current workflow relies heavily on AI tools for ideation, technical research, coding assistance, debugging, prototyping, testing support, and documentation. I direct requirements and evaluate and iterate on the resulting work while building my understanding of the underlying technologies.
+---
 
-These projects demonstrate initiative, experimentation, learning, problem solving, and the ability to turn ideas into practical digital projects. They are not presented as substitutes for formal professional employment experience.
+## 🧭 How I develop projects
+
+My current workflow makes extensive use of AI tools for:
+
+1. **Research** — investigate technologies, requirements, and possible approaches.
+2. **Planning** — turn an idea into features, tasks, and implementation steps.
+3. **Implementation** — use AI for coding and configuration assistance.
+4. **Debugging** — investigate errors, compare approaches, and iterate.
+5. **Testing** — run available checks and verify behavior where practical.
+6. **Documentation** — record architecture, limitations, setup, and project status.
+
+I direct requirements and evaluate the resulting work while developing stronger independent understanding of the technologies involved.
+
+> **Transparency:** AI-assisted project work is not presented as equivalent to formal professional software-engineering experience.
+
+## 📌 Evidence standard
+
+For future projects, I aim to document:
+
+- Problem being solved
+- Key features actually implemented
+- Technologies actually encountered or used
+- My specific contribution
+- Demo or deployment evidence where available
+- Tests and verification performed
+- Known limitations and unfinished work
+- Attribution for forked, adapted, or externally sourced work
+
+**Evidence first. Build practically. Attribute accurately.**
