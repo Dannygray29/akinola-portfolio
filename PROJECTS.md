@@ -47,6 +47,27 @@ The repository's own audit identifies remaining behavioral verification and prod
 
 ---
 
+## 🛠️ Terhux
+
+**Focus:** Android · Termux · GitHub integration · developer tooling · controlled automation  
+**Status:** Private development project
+
+Terhux is a GitHub → Termux command bridge designed to let a controller communicate with a phone-based development environment through a constrained command protocol.
+
+### What I explored
+- Approval-gated command execution
+- Registered-project boundaries and relative-path restrictions
+- File read/write workflows
+- Git status, branch, diff, commit, and push operations
+- Project inspection and validation
+- Structured, machine-readable command results
+- Shell scripting and Android/Gradle project structure
+- Test/build feedback loops for controller-driven development
+
+The current design intentionally avoids arbitrary shell execution and requires explicit approval for file writes. This project demonstrates practical experimentation with controlled automation and developer tooling rather than claiming a production-ready autonomous execution system.
+
+---
+
 ## 🏢 Greyvona Technologies
 
 **Focus:** Digital products · web applications · deployment · integrations  
