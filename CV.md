@@ -50,6 +50,13 @@ Technology project exploring digital products, web applications, backend service
 
 **Status:** Private development repository.
 
+### Terhux
+Android/GitHub-to-Termux command-bridge project exploring a controlled way for external controllers to send approved development and project-management commands to a Termux environment.
+
+**What I explored:** command protocols, approval-gated file operations, registered project boundaries, structured machine-readable results, Git operations, project inspection, test/build checks, shell scripting, and Android/Gradle project structure.
+
+**Status:** Private development repository.
+
 ### StoryForge Agent
 AI-oriented project exploring automated content workflows and platform integrations.
 
