@@ -1,6 +1,6 @@
 # Akinola Ayomide Daniel
 
-**AI-Assisted Technology | Digital Products | Research | Automation | Digital Operations**
+**AI-Assisted Junior Full-Stack Developer | Digital Products | Research | Automation**
 
 Nigeria  
 Akinoladaniel71@gmail.com  
@@ -9,51 +9,76 @@ GitHub: https://github.com/Dannygray29
 
 ## Professional Summary
 
-Entry-level aspiring technology professional with no formal professional work experience, developing practical experience through self-directed learning, AI-assisted project development, research, and digital experimentation. Interested in building digital products, exploring technology, automating workflows, and solving problems with modern tools.
+AI-assisted junior full-stack developer and self-directed technology builder with no formal professional work experience. I develop practical digital projects, research technologies, design workflows, troubleshoot problems, and use AI tools extensively for coding assistance, technical research, prototyping, testing support, debugging, and documentation.
 
-My current development workflow makes extensive use of AI tools for coding assistance, technical research, debugging, prototyping, testing support, and documentation. I direct project requirements and use AI to help translate ideas into practical digital projects while developing stronger independent technical knowledge.
+My current work includes web applications, Supabase-backed products, Git/GitHub workflows, Android/Termux developer tooling, controlled automation, and AI-assisted project orchestration. I direct project requirements, review generated work, test where practical, and continue building independent understanding of the technologies involved.
 
 ## Core Capabilities
 
-- AI-Assisted Project Development
+- AI-Assisted Full-Stack Development
 - Digital Product Development
 - Technology Research
 - Problem Solving & Troubleshooting
-- Digital Operations & Automation
+- Workflow Automation & Developer Tooling
+- Git/GitHub Project Workflows
+- Technical Documentation
 - Self-Directed Learning & Adaptability
-- Project Organization & Documentation
 
 ## Technologies Used or Explored Through AI-Assisted Projects
 
-Python, JavaScript, HTML, CSS, FastAPI, SQLite, Supabase, REST APIs, AI/LLM integrations, Ollama, Playwright, APScheduler, Git, GitHub, GitHub Actions, OAuth/PKCE concepts, environment variables, and security/secret-management practices.
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Python, FastAPI, Supabase, PostgreSQL, SQLite, REST APIs, AI/LLM integrations, Git, GitHub, GitHub Actions, Termux, Android/Gradle, shell scripting, Playwright, APScheduler, OAuth/PKCE concepts, environment variables, and security/secret-management practices.
 
-These are technologies encountered, used, or explored through AI-assisted projects and are not presented as independent professional programming qualifications.
+These technologies are encountered, used, or explored through AI-assisted projects and are not presented as independent professional-level proficiency in every item.
 
 ## Selected Project Experience
 
-### SocialFlow
-Self-hosted social-media automation project covering areas such as research, planning, content generation, review, scheduling, publishing, and analytics.
-
-**Important attribution:** This is a fork-derived project. The upstream relationship is retained and project documentation distinguishes upstream work from my changes and portfolio work.
-
-Repository: https://github.com/Dannygray29/SocialFlow
-
 ### GreyVerse
-Online gaming and esports platform project exploring player accounts, tournaments, leagues, rankings, rewards, and match workflows.
+**Full-Stack Developer & Creator — May 2026–Present**
+
+Football competition-management platform for Dream League Soccer and eFootball, exploring player accounts, game-specific leagues and tournaments, rankings, rewards, match workflows, evidence handling, and server-controlled competition rules.
+
+**What I explored**
+- Product requirements and feature planning
+- Next.js, React, TypeScript, Supabase, and PostgreSQL workflows
+- Authentication, database, and RLS concepts
+- League, tournament, ranking, and match workflows
+- AI-assisted coding, review, testing, debugging, and documentation
+- Git/GitHub development workflows
 
 **Status:** Under development.
 
 Repository: https://github.com/Dannygray29/Greyverse
 
-### Greyvona Technologies
-Technology project exploring digital products, web applications, backend services, deployment, and digital operations.
+### Terhux
+**Developer Tooling & Automation Project**
+
+Private Android/GitHub-to-Termux command-bridge project exploring controlled phone-based development and project orchestration.
+
+**What I explored**
+- Approval-gated command execution
+- Registered-project boundaries and relative-path restrictions
+- Structured machine-readable command results
+- File read/write workflows
+- Git status, branch, diff, commit, and push operations
+- Project inspection and test/build checks
+- Project-aware concurrent worker execution
+- Per-project execution locks and AI run locks
+- Persistent/resumable AI runs and automatic recovery
+- Shell scripting and Android/Gradle project structure
+
+The architecture allows different registered projects to work concurrently while serializing work within the same project. The design intentionally avoids unrestricted shell execution.
 
 **Status:** Private development repository.
 
-### Terhux
-Android/GitHub-to-Termux command-bridge project exploring a controlled way for external controllers to send approved development and project-management commands to a Termux environment.
+### SocialFlow
+Self-hosted social-media automation project covering research, planning, content generation, review, scheduling, publishing, and analytics.
 
-**What I explored:** command protocols, approval-gated file operations, registered project boundaries, structured machine-readable results, Git operations, project inspection, test/build checks, shell scripting, and Android/Gradle project structure.
+**Important attribution:** This is a fork-derived project. The upstream relationship is retained and project documentation distinguishes upstream work from my changes and portfolio work.
+
+Repository: https://github.com/Dannygray29/SocialFlow
+
+### Greyvona Technologies
+Technology project exploring digital products, web applications, backend services, deployment, integrations, and digital operations.
 
 **Status:** Private development repository.
 
