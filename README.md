@@ -1,6 +1,6 @@
 # Akinola Ayomide Daniel
 
-### AI-Assisted Technology • Digital Products • Research • Automation • Digital Operations
+### AI-Assisted Junior Full-Stack Developer • Digital Products • Research • Automation
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-181717?logo=github)](https://github.com/Dannygray29/akinola-portfolio)
 [![Projects](https://img.shields.io/badge/Projects-Explore-0A66C2)](PROJECTS.md)
@@ -15,7 +15,7 @@
 
 ## 👋 About me
 
-I am an aspiring technology professional based in Nigeria, building practical digital projects through self-directed learning and AI-assisted development. My interests include digital products, web technologies, automation, technology research, data, and digital operations.
+I am an aspiring junior full-stack developer based in Nigeria, building practical digital projects through self-directed learning and AI-assisted development. My interests include digital products, web technologies, automation, technology research, data, developer tooling, and digital operations.
 
 I currently have **no formal professional work experience**. This portfolio focuses on work I have actually explored and built rather than unsupported employment history, qualifications, or achievements.
 
@@ -39,10 +39,10 @@ I direct requirements, evaluate results, test where practical, and iterate while
 | Area | Practical focus |
 | --- | --- |
 | **AI-Assisted Development** | Requirements, coding assistance, debugging, prototyping, testing support |
-| **Digital Products** | Feature planning, product experimentation, iterative improvement |
+| **Full-Stack Product Development** | Web applications, backend/data workflows, feature planning, iterative improvement |
 | **Technology Research** | Internet research, technical investigation, comparison, documentation |
 | **Problem Solving** | Breaking problems down, investigating errors, testing solutions |
-| **Automation** | Workflow design, digital operations, automation concepts |
+| **Automation & Developer Tooling** | Workflow design, controlled automation, Termux/GitHub tooling |
 | **Learning & Adaptability** | Self-directed learning, experimentation, unfamiliar tools |
 | **Documentation** | Project organization, technical notes, requirements, implementation records |
 
@@ -58,9 +58,9 @@ A self-hosted project exploring research, planning, content generation, review, 
 [**Open SocialFlow →**](https://github.com/Dannygray29/SocialFlow)
 
 ### 02 · GreyVerse
-**Gaming & esports · digital product development · online platform**
+**Gaming & esports · full-stack product development · online platform**
 
-An online gaming and esports platform exploring player accounts, tournaments, leagues, rankings, rewards, and match workflows.
+A football competition-management platform for Dream League Soccer and eFootball, exploring player accounts, game-specific leagues and tournaments, rankings, rewards, and match workflows.
 
 **Status:** Under development.
 
@@ -74,9 +74,9 @@ A broader technology project exploring digital products, web applications, backe
 **Status:** Private development repository.
 
 ### 04 · Terhux
-**Android · Termux · GitHub integration · developer tooling**
+**Android · Termux · GitHub integration · developer tooling · controlled automation**
 
-A private project exploring a controlled GitHub-to-Termux command bridge for phone-based development. It uses approval-gated operations, registered project boundaries, structured results, file workflows, Git operations, and project validation.
+A private project exploring a generic GitHub-to-Termux command bridge and project-orchestration layer for phone-based development. It supports registered projects, approval-gated tasks, structured results, project-aware concurrent workers, resumable AI runs, and automatic recovery.
 
 **Status:** Private development repository.
 
@@ -95,18 +95,18 @@ An AI-oriented project exploring automated content workflows and integrations wi
 
 | Category | Technologies |
 | --- | --- |
-| Languages & web | Python · JavaScript · HTML · CSS |
-| Backend & data | FastAPI · SQLite · Supabase · REST APIs |
+| Languages & web | JavaScript · TypeScript · React · Next.js · HTML · CSS · Python |
+| Backend & data | FastAPI · Supabase · PostgreSQL · SQLite · REST APIs |
 | AI & automation | AI/LLM integrations · Ollama · Playwright · APScheduler |
-| Development & delivery | Git · GitHub · GitHub Actions |
+| Development & delivery | Git · GitHub · GitHub Actions · Termux · Shell scripting · Android/Gradle |
 | Security & integrations | OAuth/PKCE concepts · environment variables · secret-management practices |
 
 ## 🎯 Current focus
 
-- Strengthening independent technical understanding
+- Strengthening independent full-stack technical understanding
 - Improving project quality and documentation
 - Building practical digital products
-- Exploring AI and automation workflows
+- Exploring AI and controlled automation workflows
 - Growing research and problem-solving capabilities
 - Preparing for future technology opportunities
 
