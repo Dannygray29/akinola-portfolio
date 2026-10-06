@@ -50,6 +50,6 @@
 
 ## Technologies encountered through projects
 
-Python • JavaScript • HTML • CSS • FastAPI • SQLite • Supabase • REST APIs • AI/LLM integrations • Ollama • Playwright • APScheduler • Git • GitHub • GitHub Actions • OAuth/PKCE concepts • Environment variables • Secret-management and security practices
+Python • JavaScript • HTML • CSS • FastAPI • SQLite • Supabase • REST APIs • AI/LLM integrations • Ollama • Playwright • APScheduler • Git • GitHub • GitHub Actions • Android/Gradle • Termux • Shell scripting • OAuth/PKCE concepts • Environment variables • Secret-management and security practices
 
 **Important:** The technology list describes tools used or explored through AI-assisted projects. It is not a claim of independent professional-level proficiency in every listed technology.
