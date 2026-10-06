@@ -73,7 +73,14 @@ A broader technology project exploring digital products, web applications, backe
 
 **Status:** Private development repository.
 
-### 04 · StoryForge Agent
+### 04 · Terhux
+**Android · Termux · GitHub integration · developer tooling**
+
+A private project exploring a controlled GitHub-to-Termux command bridge for phone-based development. It uses approval-gated operations, registered project boundaries, structured results, file workflows, Git operations, and project validation.
+
+**Status:** Private development repository.
+
+### 05 · StoryForge Agent
 **AI · content workflows · platform integrations**
 
 An AI-oriented project exploring automated content workflows and integrations with external platforms and services.
