@@ -2,9 +2,10 @@
 
 ## Core capabilities
 
-### AI-Assisted Project Development
+### AI-Assisted Full-Stack Development
 - Translating ideas and requirements into project plans
 - Using AI tools for coding assistance and technical exploration
+- Working with web application and backend/data workflows
 - Iterative debugging and troubleshooting
 - Prototyping and testing support
 - Technical documentation
@@ -14,6 +15,7 @@
 - Turning concepts into practical digital projects
 - Exploring web applications and digital products
 - Iterative product improvement
+- Product workflow and architecture exploration
 
 ### Technology Research
 - Internet research
@@ -29,12 +31,13 @@
 - Testing changes and iterating
 - Using AI-assisted investigation to learn unfamiliar systems
 
-### Digital Operations & Automation
+### Digital Operations, Automation & Developer Tooling
 - Workflow organization
-- Automation concepts
-- Social-media workflow concepts
-- Digital tool experimentation
-- Process improvement
+- Controlled automation concepts
+- Git/GitHub workflows
+- Termux-based development tooling
+- Project orchestration concepts
+- Approval-gated task workflows
 
 ### Learning & Adaptability
 - Self-directed learning
@@ -47,9 +50,10 @@
 - Requirements and feature documentation
 - Project notes and implementation decisions
 - Structured project workflows
+- Evidence-based project documentation
 
 ## Technologies encountered through projects
 
-Python • JavaScript • HTML • CSS • FastAPI • SQLite • Supabase • REST APIs • AI/LLM integrations • Ollama • Playwright • APScheduler • Git • GitHub • GitHub Actions • Android/Gradle • Termux • Shell scripting • OAuth/PKCE concepts • Environment variables • Secret-management and security practices
+TypeScript • JavaScript • React • Next.js • Python • HTML • CSS • FastAPI • Supabase • PostgreSQL • SQLite • REST APIs • AI/LLM integrations • Ollama • Playwright • APScheduler • Git • GitHub • GitHub Actions • Android/Gradle • Termux • Shell scripting • OAuth/PKCE concepts • Environment variables • Secret-management and security practices
 
 **Important:** The technology list describes tools used or explored through AI-assisted projects. It is not a claim of independent professional-level proficiency in every listed technology.
