@@ -29,19 +29,20 @@ SocialFlow is fork-derived from an upstream repository. I do **not** claim the u
 **Focus:** Gaming & esports · online platform · competition workflows  
 **Status:** Under development · public
 
-GreyVerse is an online competition-management platform for external DLS and eFootball matches. The repository explores player accounts, game-specific records, tournaments, leagues, rankings, rewards, match workflows, evidence handling, and server-controlled competition rules.
+GreyVerse is a football competition-management platform for Dream League Soccer and eFootball. It explores player accounts, game-specific leagues and tournaments, rankings, rewards, match workflows, evidence handling, and server-controlled competition rules.
 
 ### What I explored
 - Product requirements and feature planning
+- Next.js, React, TypeScript, Supabase, and PostgreSQL workflows
 - Authentication and account workflows
-- Supabase-backed application architecture
 - Database/RLS concepts and server-controlled logic
-- Match, league, tournament, and reward workflows
+- Match, league, tournament, ranking, and reward workflows
 - Web/mobile deployment concepts
-- Iterative troubleshooting, testing, and documentation
+- AI-assisted coding, troubleshooting, testing, and documentation
+- Git/GitHub development workflows
 
 ### Current limitation
-The repository's own audit identifies remaining behavioral verification and production-readiness gates. I therefore do not describe GreyVerse as fully production-ready.
+The repository remains under development and is not presented as fully production-ready.
 
 [**Open GreyVerse →**](https://github.com/Dannygray29/Greyverse)
 
@@ -52,19 +53,27 @@ The repository's own audit identifies remaining behavioral verification and prod
 **Focus:** Android · Termux · GitHub integration · developer tooling · controlled automation  
 **Status:** Private development project
 
-Terhux is a GitHub → Termux command bridge designed to let a controller communicate with a phone-based development environment through a constrained command protocol.
+Terhux is a GitHub → Termux command bridge and project-orchestration system designed to let a controller communicate with a phone-based development environment through a constrained command protocol.
 
 ### What I explored
-- Approval-gated command execution
+- Approval-gated task lifecycle
 - Registered-project boundaries and relative-path restrictions
 - File read/write workflows
 - Git status, branch, diff, commit, and push operations
 - Project inspection and validation
 - Structured, machine-readable command results
+- Project-aware worker scheduling
+- Concurrent execution across different registered projects
+- Serialization of tasks within the same project
+- Persistent/resumable AI runs
+- Automatic recovery of unfinished AI runs
+- Per-run and per-project locking
 - Shell scripting and Android/Gradle project structure
 - Test/build feedback loops for controller-driven development
 
-The current design intentionally avoids arbitrary shell execution and requires explicit approval for file writes. This project demonstrates practical experimentation with controlled automation and developer tooling rather than claiming a production-ready autonomous execution system.
+Terhux is intentionally generic: projects are registered rather than hard-coded. Different projects can execute concurrently while work belonging to the same project is protected from conflicting execution.
+
+The current design intentionally avoids arbitrary shell execution and requires explicit approval for controlled file/task operations. This project demonstrates practical experimentation with controlled automation and developer tooling rather than claiming a production-ready autonomous execution system.
 
 ---
 
