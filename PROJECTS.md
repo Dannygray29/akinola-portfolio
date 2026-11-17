@@ -107,6 +107,26 @@ Because the repository is private, this portfolio does not claim functionality t
 
 ---
 
+## 🧪 Deterministic Fuzz-Testing Sample
+
+**Focus:** Node.js · defensive input validation · deterministic testing  
+**Status:** Public · portfolio work sample
+
+A small, dependency-free example showing how to test a decoder against unpredictable byte input with reproducible random cases.
+
+### What it demonstrates
+- Fixed-seed pseudo-random test data
+- 5,000 arbitrary byte inputs and 500 generated valid envelopes
+- Explicit validation of documented return shapes and plain error behavior
+- A bounded runtime check
+- Offline tests using Node.js built-in test and assertion modules
+
+This is a teaching fixture for a testing technique, not a production Solana parser or a claim of contribution to another repository.
+
+[**View the sample →**](samples/deterministic-fuzz/README.md)
+
+---
+
 ## 🧭 How I develop projects
 
 My current workflow makes extensive use of AI tools for:
