@@ -4,12 +4,13 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-181717?logo=github)](https://github.com/Dannygray29/akinola-portfolio)
 [![Projects](https://img.shields.io/badge/Projects-Explore-0A66C2)](PROJECTS.md)
+[![Services](https://img.shields.io/badge/Services-Work%20with%20me-0A7F5A)](SERVICES.md)
 [![CV](https://img.shields.io/badge/CV-View-2E7D32)](CV.md)
 [![Learning](https://img.shields.io/badge/Status-Actively%20Learning-F59E0B)](#current-focus)
 
 > **Evidence-first portfolio:** self-directed technology projects, research, experimentation, digital products, and AI-assisted development.
 
-[**View Projects →**](PROJECTS.md) · [**Read CV →**](CV.md) · [**GitHub Profile →**](https://github.com/Dannygray29)
+[**View Projects →**](PROJECTS.md) · [**View Services →**](SERVICES.md) · [**Read CV →**](CV.md) · [**GitHub Profile →**](https://github.com/Dannygray29)
 
 ---
 
@@ -110,24 +111,25 @@ An AI-oriented project exploring automated content workflows and integrations wi
 - Growing research and problem-solving capabilities
 - Preparing for future technology opportunities
 
+## 📬 Work with me
+
+I accept small, clearly scoped software tasks involving frontend fixes, GitHub workflow maintenance, backend/data changes, and technical documentation.
+
+- [View services, indicative budgets, and delivery process](SERVICES.md)
+- Email: Akinoladaniel71@gmail.com
+- [GitHub — Dannygray29](https://github.com/Dannygray29)
+
 ## 📚 Portfolio documents
 
 | Document | Purpose |
 | --- | --- |
 | [CV](CV.md) | Professional CV and experience summary |
 | [Projects](PROJECTS.md) | Detailed project portfolio |
+| [Services](SERVICES.md) | Scoped services, indicative budgets, and delivery process |
 | [Skills](SKILLS.md) | Core capabilities and technology exposure |
 | [Education](EDUCATION.md) | Education and learning approach |
 | [Security](SECURITY.md) | Security and responsible-project principles |
 | [Contributing](CONTRIBUTING.md) | Feedback and contribution guidance |
-
-## 📫 Contact
-
-**Akinola Ayomide Daniel**  
-🇳🇬 Nigeria  
-📧 Akinoladaniel71@gmail.com  
-📱 0907 5858 619  
-💻 [GitHub — Dannygray29](https://github.com/Dannygray29)
 
 ## 🔎 Integrity & attribution
 
