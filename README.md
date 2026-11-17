@@ -4,12 +4,13 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-181717?logo=github)](https://github.com/Dannygray29/akinola-portfolio)
 [![Projects](https://img.shields.io/badge/Projects-Explore-0A66C2)](PROJECTS.md)
+[![Services](https://img.shields.io/badge/Services-Contact-00A86B)](SERVICES.md)
 [![CV](https://img.shields.io/badge/CV-View-2E7D32)](CV.md)
 [![Learning](https://img.shields.io/badge/Status-Actively%20Learning-F59E0B)](#current-focus)
 
 > **Evidence-first portfolio:** self-directed technology projects, research, experimentation, digital products, and AI-assisted development.
 
-[**View Projects →**](PROJECTS.md) · [**Read CV →**](CV.md) · [**GitHub Profile →**](https://github.com/Dannygray29)
+[**View Projects →**](PROJECTS.md) · [**View Services →**](SERVICES.md) · [**Read CV →**](CV.md) · [**GitHub Profile →**](https://github.com/Dannygray29)
 
 ---
 
@@ -114,6 +115,7 @@ An AI-oriented project exploring automated content workflows and integrations wi
 
 | Document | Purpose |
 | --- | --- |
+| [Services](SERVICES.md) | Development, automation, documentation, and QA enquiries |
 | [CV](CV.md) | Professional CV and experience summary |
 | [Projects](PROJECTS.md) | Detailed project portfolio |
 | [Skills](SKILLS.md) | Core capabilities and technology exposure |
@@ -125,9 +127,10 @@ An AI-oriented project exploring automated content workflows and integrations wi
 
 **Akinola Ayomide Daniel**  
 🇳🇬 Nigeria  
-📧 Akinoladaniel71@gmail.com  
-📱 0907 5858 619  
+📧 princedanielhaywhy2003@gmail.com  
 💻 [GitHub — Dannygray29](https://github.com/Dannygray29)
+
+For project enquiries, include the repository link, problem description, expected outcome, and any relevant constraints.
 
 ## 🔎 Integrity & attribution
 
